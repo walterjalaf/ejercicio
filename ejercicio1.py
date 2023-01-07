@@ -37,4 +37,8 @@ la imprimo por pantalla y rompo el ciclo.
     
 
         
+carta = 'aaabab'
 
+for i in carta:
+    print(i)
+    
