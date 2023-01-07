@@ -29,7 +29,10 @@ la imprimo por pantalla y rompo el ciclo.
 """
 # Problema: Retornar la primer letra que no se repite en una carta
 # Lógica:
-
+creo un diccionario vacío
+genero un bucle de la carta y luego cuento la cantidad de letras
+filtro las letras con cantidad = 1 y luego muestro la primer letra
+ 
 
 
 """
