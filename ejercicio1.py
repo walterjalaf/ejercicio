@@ -45,3 +45,5 @@ carta = 'aaabab'
 for i in carta:
     print(i)
     
+
+print(carta)
