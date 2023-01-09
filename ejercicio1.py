@@ -15,14 +15,14 @@ al momento de que sí se encuentre en el contenedor
 la imprimo por pantalla y rompo el ciclo.
 """
 
-# carta = 'Holaa todo bien'
-# contenedor = []
-# for i in carta:
-#     if i not in contenedor:
-#         contenedor.append(i)
-#     else:
-#         print(i)
-#         break
+carta = 'Holaa todo bien'
+contenedor = []
+for i in carta:
+    if i not in contenedor:
+        contenedor.append(i)
+    else:
+        print(i)
+        break
 
 
 
