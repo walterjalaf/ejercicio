@@ -55,3 +55,5 @@ logica
 """
 
 print('holaa')
+
+print("version 2.0")
