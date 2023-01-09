@@ -47,3 +47,9 @@ for i in carta:
     
 
 print(carta)
+
+
+"""
+ejercicio 3
+logica 
+"""
