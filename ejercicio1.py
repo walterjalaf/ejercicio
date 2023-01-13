@@ -63,3 +63,4 @@ print("version 2.0")
 en la rama header agrego la lógica del ejercicio 4
 
 """
+print('ejercicio 4 resolucion en código')
