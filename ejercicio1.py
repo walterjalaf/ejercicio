@@ -57,3 +57,6 @@ logica
 print('holaa')
 
 print("version 2.0")
+
+
+print('ejercicio 4 resolucion en código')
